@@ -1,0 +1,852 @@
+[
+  {
+    "bet_radar_id": "55067139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34451-20449-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.3,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34451-20449-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34451-20449-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.05,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34451-20449-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.06,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34451-20449-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 2.86,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34451-20449-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 79,
+      "period": 2,
+      "start": 1731017700.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "cd genesis - olancho fc"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "51468937",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.05,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34451-20290-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.35,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34451-20290-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34451-20290-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.09,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34451-20290-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.64,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34451-20290-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.49,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34451-20290-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "start": 1731019500.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "pasto  - america de cali"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "55327695",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 15.0,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34455-13126-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 4.75,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34455-13126-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.2,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34455-13126-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 3.6,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34455-13126-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.11,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34455-13126-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "start": 1731020400.0,
+      "score": [
+        0,
+        1
+      ],
+      "name": "ca 9 de julio rafaela - once tigres"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "46657139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.45,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34451-350-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.95,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34451-350-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34451-350-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.08,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34451-350-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.47,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34451-350-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.73,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34451-350-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "start": 1731020400.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "platense - dep riestra"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "54938533",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.12,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34451-16363-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.5,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34451-16363-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 12.0,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34451-16363-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 4.25,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34451-16363-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "start": 1731020400.0,
+      "score": [
+        2,
+        0
+      ],
+      "name": "cruzeiro - palmeiras"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "55364301",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.45,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34454-48452-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.4,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34454-48452-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 3.5,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34454-48452-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.21,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34454-48452-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.42,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34454-48452-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.44,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34454-48452-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 0,
+      "start": 1731020400.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "hyh sebaco fc - indigenas de matagalpa fc"
+    },
+    "sportbook": "snai"
+  },
+  {
+    "bet_radar_id": "46657141",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.8,
+        "sportbook": "snai",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "34451-327-1$3-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.7,
+        "sportbook": "snai",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "34451-327-1$3-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "snai",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "34451-327-1$3-00000000-3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.08,
+        "sportbook": "snai",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "34451-327-1$15-00000000-1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.86,
+        "sportbook": "snai",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "34451-327-1$16-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.38,
+        "sportbook": "snai",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "34451-327-1$17-00000000-2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 37,
+      "period": 1,
+      "start": 1731021300.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "velez sarsfield - tigre"
+    },
+    "sportbook": "snai"
+  }
+]

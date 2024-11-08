@@ -1,0 +1,9 @@
+2024-11-08 01:51:47,233: 
+2024-11-08 01:51:47,233: 
+2024-11-08 01:51:47,233: Started Snai process
+2024-11-08 01:51:47,233: Loaded data
+2024-11-08 01:51:54,880: Initialized Nodriver instance
+2024-11-08 01:52:18,432: Finished running prep() function process in 23.21s
+2024-11-08 01:52:40,245: Receiving/updating odds data...
+2024-11-08 01:52:40,454: Tree request 14340.1599: created tree and found n.7 events
+2024-11-08 01:52:40,454: Arb finder websocket frame: found n.7 events

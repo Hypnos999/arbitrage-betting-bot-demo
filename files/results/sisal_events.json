@@ -1,0 +1,1013 @@
+[
+  {
+    "bet_radar_id": "54938533",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.15,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 13.0,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 3.94,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.04,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34451_16363_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "start": 1731024000.0,
+      "score": [
+        2,
+        0
+      ],
+      "name": "Cruzeiro - Palmeiras"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "51468937",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.1,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.2,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 4.75,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.06,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.48,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.43,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34451_19279_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "start": 1731023100.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "Deportivo Pasto - America Cali"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "46657141",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34451_327_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34451_327_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34451_327_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34451_327_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34451_327_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34451_327_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "period": 1,
+      "start": 1731024900.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "Velez Sarsfield - Tigre"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "46657139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.35,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34451_350_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.95,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34451_350_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34451_350_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.05,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34451_350_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.45,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34451_350_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.66,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34451_350_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "start": 1731024000.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "Platense - Deportivo Riestra"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "55364301",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.45,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.4,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 3.5,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.19,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.4,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.42,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34454_48452_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "start": 1731024000.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "Hyh Export Sebaco FC - Deportivo Matagalpa FC"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "55067139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.28,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.02,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.04,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 2.78,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34455_54863_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "period": 2,
+      "start": 1731021300.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "CD Genesis - Olancho FC"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "11593460",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 15.0,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 4.5,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.18,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 3.34,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.08,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34456_2001_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "start": 1731024000.0,
+      "score": [
+        0,
+        1
+      ],
+      "name": "Atletico 9 de Julio - Once Tigres"
+    },
+    "sportbook": "sisal"
+  },
+  {
+    "bet_radar_id": "11590939",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_3_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 10.0,
+        "sportbook": "sisal",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_3_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 29.0,
+        "sportbook": "sisal",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_3_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_99999_0_1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 6.92,
+        "sportbook": "sisal",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_99999_0_2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "sisal",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "esito_34456_2053_99999_0_3"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "period": 2,
+      "start": 1731020400.0,
+      "score": [
+        3,
+        2
+      ],
+      "name": "Lobos UPNFM Reserves - Genesis FC Reserves"
+    },
+    "sportbook": "sisal"
+  }
+]

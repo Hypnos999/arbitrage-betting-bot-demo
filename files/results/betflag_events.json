@@ -1,0 +1,1165 @@
+[
+  {
+    "bet_radar_id": "10954272",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.5,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807939334",
+          "event_id": "10954272",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.95,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807939333",
+          "event_id": "10954272",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807939332",
+          "event_id": "10954272",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.12,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807939320",
+          "event_id": "10954272",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.5,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807939309",
+          "event_id": "10954272",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.55,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807939305",
+          "event_id": "10954272",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 46,
+      "start": 1731024000.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "platense - deportivo riestra"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "10954275",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.8,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807931593",
+          "event_id": "10954275",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.6,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807931592",
+          "event_id": "10954275",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807931591",
+          "event_id": "10954275",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.12,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807931590",
+          "event_id": "10954275",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.9,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807931587",
+          "event_id": "10954275",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.27,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807931585",
+          "event_id": "10954275",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 37,
+      "period": 1,
+      "start": 1731024900.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "velez sarsfield - tigre"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "11568495",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.15,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807938622",
+          "event_id": "11568495",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.5,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807938620",
+          "event_id": "11568495",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 12.0,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807938619",
+          "event_id": "11568495",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "0",
+          "event_id": "11568495",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 3.75,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807938607",
+          "event_id": "11568495",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.07,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807938601",
+          "event_id": "11568495",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 49,
+      "start": 1731024000.0,
+      "score": [
+        2,
+        0
+      ],
+      "name": "cruzeiro u20 - palmeiras u20"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "11582902",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.05,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807944706",
+          "event_id": "11582902",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.35,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807944705",
+          "event_id": "11582902",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.25,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807944704",
+          "event_id": "11582902",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.13,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807944703",
+          "event_id": "11582902",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.6,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807944700",
+          "event_id": "11582902",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.45,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807944698",
+          "event_id": "11582902",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 47,
+      "start": 1731023100.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "deportivo pasto - america de cali"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "11585601",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807952918",
+          "event_id": "11585601",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.3,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807952917",
+          "event_id": "11585601",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.5,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807952916",
+          "event_id": "11585601",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.08,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807952915",
+          "event_id": "11585601",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.1,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807952912",
+          "event_id": "11585601",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 2.75,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807952910",
+          "event_id": "11585601",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 79,
+      "period": 2,
+      "start": 1731021300.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "genesis fc - olancho fc"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "55364301",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.4,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807934611",
+          "event_id": "55364301",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.4,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807934610",
+          "event_id": "55364301",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 3.45,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807934609",
+          "event_id": "55364301",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.22,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807934681",
+          "event_id": "55364301",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.42,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807934678",
+          "event_id": "55364301",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.45,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807934676",
+          "event_id": "55364301",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 45,
+      "start": 1731024000.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "hyh sebaco fc - indigenas de matagalpa fc"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "11593460",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 15.0,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "-807939016",
+          "event_id": "11593460",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.0,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807939015",
+          "event_id": "11593460",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.2,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807939014",
+          "event_id": "11593460",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 3.25,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "-807939013",
+          "event_id": "11593460",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "0",
+          "event_id": "11593460",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.1,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "-807939002",
+          "event_id": "11593460",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 46,
+      "start": 1731024000.0,
+      "score": [
+        0,
+        1
+      ],
+      "name": "atletico 9 de julio - once tigres"
+    },
+    "sportbook": "betflag"
+  },
+  {
+    "bet_radar_id": "11590939",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "betflag",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "0",
+          "event_id": "11590939",
+          "bet_type": "1X2",
+          "outcome": "1"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 17.0,
+        "sportbook": "betflag",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "-807956332",
+          "event_id": "11590939",
+          "bet_type": "1X2",
+          "outcome": "X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 85.0,
+        "sportbook": "betflag",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "-807956331",
+          "event_id": "11590939",
+          "bet_type": "1X2",
+          "outcome": "2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "betflag",
+        "outcome": "1X",
+        "bet_id": {
+          "bet_id": "0",
+          "event_id": "11590939",
+          "bet_type": "Doppia Chance",
+          "outcome": "1X"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "2"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 10.0,
+        "sportbook": "betflag",
+        "outcome": "X2",
+        "bet_id": {
+          "bet_id": "-807956327",
+          "event_id": "11590939",
+          "bet_type": "Doppia Chance",
+          "outcome": "X2"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "DC",
+        "odd": 1.0,
+        "sportbook": "betflag",
+        "outcome": "12",
+        "bet_id": {
+          "bet_id": "0",
+          "event_id": "11590939",
+          "bet_type": "Doppia Chance",
+          "outcome": "12"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 92,
+      "period": 2,
+      "start": 1731020400.0,
+      "score": [
+        3,
+        2
+      ],
+      "name": "lobos upnfm - genesis fc reserves"
+    },
+    "sportbook": "betflag"
+  }
+]

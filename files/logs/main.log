@@ -1,0 +1,38 @@
+2024-11-08 01:51:41,467: Started application with asyncio
+2024-11-08 01:51:41,467: Loaded needed files and cleaned logs
+2024-11-08 01:51:41,468: Config: 
+{
+  "links_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\data\\links.json",
+  "credentials_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\data\\credentials.json",
+  "logs_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\logs\\\\",
+  "results_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\results\\\\",
+  "images_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\images\\\\",
+  "run_path": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\run\\\\",
+  "browser_executable_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "browser_user_data_dir": "C:\\Users\\Hypnos999\\Desktop\\arbitrage-betting-bot-demo\\files\\profile",
+  "website_to_use": [
+    "betflag",
+    "betsson",
+    "better",
+    "eurobet",
+    "sisal",
+    "snai",
+    "vincitu"
+  ],
+  "sport_to_use": "football",
+  "website_timeout": 300,
+  "total_amount": 100,
+  "bet_round_up": 5,
+  "probability_treshold": [
+    0.0,
+    1.0
+  ],
+  "restart_time": 900
+}
+
+2024-11-08 01:51:41,786: Initializing nodrivers processes
+2024-11-08 01:51:53,997: Waiting for websites to finish prep() function
+2024-11-08 01:52:30,000: Starting main loop
+2024-11-08 01:52:40,455: Found: n.7 events
+2024-11-08 01:52:40,768: Found: n.13 events
+2024-11-08 01:52:42,313: Found: n.16 events

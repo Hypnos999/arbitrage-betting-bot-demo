@@ -1,0 +1,9 @@
+2024-11-08 01:51:45,188: 
+2024-11-08 01:51:45,188: 
+2024-11-08 01:51:45,188: Started Eurobet process
+2024-11-08 01:51:45,188: Loaded data
+2024-11-08 01:51:52,826: Initialized Nodriver instance
+2024-11-08 01:52:08,778: Finished running prep() function process in 15.27s
+2024-11-08 01:52:40,245: Receiving/updating odds data...
+2024-11-08 01:52:44,991: Arb finder request 6640.1097: found n.4 events
+2024-11-08 01:52:50,021: Arb finder request 6640.1118: found n.5 events

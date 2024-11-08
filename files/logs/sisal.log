@@ -1,0 +1,8 @@
+2024-11-08 01:51:46,201: 
+2024-11-08 01:51:46,201: 
+2024-11-08 01:51:46,202: Started Sisal process
+2024-11-08 01:51:46,202: Loaded data
+2024-11-08 01:51:53,832: Initialized Nodriver instance
+2024-11-08 01:52:30,000: Finished running prep() function process in 35.69s
+2024-11-08 01:52:40,214: Receiving/updating odds data...
+2024-11-08 01:52:51,268: Arb finder request 25920.1459: found n.8 events

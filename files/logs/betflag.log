@@ -1,0 +1,8 @@
+2024-11-08 01:51:42,073: 
+2024-11-08 01:51:42,073: 
+2024-11-08 01:51:42,073: Started Betflag process
+2024-11-08 01:51:42,073: Loaded data
+2024-11-08 01:51:49,675: Initialized Nodriver instance
+2024-11-08 01:52:02,110: Finished running prep() function process in 12.03s
+2024-11-08 01:52:40,245: Receiving/updating odds data...
+2024-11-08 01:52:46,866: Arb finder request 6036.1498: found n.8 events

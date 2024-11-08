@@ -1,0 +1,850 @@
+[
+  {
+    "bet_radar_id": "10954272",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.5,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308652102"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.96,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308652210"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.87,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308652121"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 5.58,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308652303"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.11,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308652166"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 46,
+      "period": 0,
+      "start": 1731020400.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "platense - deportivo riestra",
+      "tournament": "argentina"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "10954275",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.83,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308652334"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.73,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308652481"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.96,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308652392"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 3.42,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308652551"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.27,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308652443"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 37,
+      "period": 1,
+      "start": 1731021300.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "velez sarsfield - tigre",
+      "tournament": "argentina"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "11582902",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308689222"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308689393"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308689315"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 47,
+      "period": 0,
+      "start": 1731019500.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "deportivo pasto - america de cali",
+      "tournament": "colombia"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "11585601",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308702370"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.3,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308702531"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.29,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308702429"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 8.36,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308702364"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.02,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308702455"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 79,
+      "period": 2,
+      "start": 1731017700.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "cd genesis - olancho fc",
+      "tournament": "honduras liga nacional"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "55364301",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.45,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308596726"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.4,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308596727"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 3.45,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308596728"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "period": 0,
+      "start": 1731020400.0,
+      "score": [
+        1,
+        1
+      ],
+      "name": "hyh sebaco fc - indigenas de matagalpa fc",
+      "tournament": "nicaragua - i divisione"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "11593460",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 15.0,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308719132"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 4.76,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308719133"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.2,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308719134"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 2.31,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308719190"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.5,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308719191"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 46,
+      "period": 0,
+      "start": 1731020400.0,
+      "score": [
+        0,
+        1
+      ],
+      "name": "atletico 9 de julio - once tigres",
+      "tournament": "argentina - iv divisione"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "54938533",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.15,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308433539"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.8,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308433540"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 13.0,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308433541"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.4,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308433597"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 2.55,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308433598"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": true,
+      "time": 45,
+      "period": 0,
+      "start": 1731020400.0,
+      "score": [
+        2,
+        0
+      ],
+      "name": "cruzeiro - palmeiras",
+      "tournament": "brasile - coppa u20"
+    },
+    "sportbook": "vincitu"
+  },
+  {
+    "bet_radar_id": "11210052",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "1",
+        "bet_id": {
+          "bet_id": "308387857"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "X",
+        "bet_id": {
+          "bet_id": "308387858"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "2",
+        "bet_id": {
+          "bet_id": "308387859"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "GG",
+        "bet_id": {
+          "bet_id": "308387915"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "NG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      },
+      {
+        "sport": "football",
+        "bet_type": "GG/NG",
+        "odd": 1.0,
+        "sportbook": "vincitu",
+        "outcome": "NG",
+        "bet_id": {
+          "bet_id": "308387916"
+        },
+        "complentary_bet_type": "GG/NG",
+        "complentary_outcomes": [
+          "GG"
+        ],
+        "compatible_bet_type": null,
+        "compatible_outcomes": []
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "status": false,
+      "time": 0,
+      "period": 0,
+      "start": 1730998800.0,
+      "score": [
+        0,
+        0
+      ],
+      "name": "aarhus fremad ii - vorup fb",
+      "tournament": "danimarca - v div"
+    },
+    "sportbook": "vincitu"
+  }
+]

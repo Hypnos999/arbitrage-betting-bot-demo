@@ -1,0 +1,10 @@
+2024-11-08 01:51:48,268: 
+2024-11-08 01:51:48,269: 
+2024-11-08 01:51:48,269: Started Vincitu process
+2024-11-08 01:51:48,269: Loaded data
+2024-11-08 01:51:55,858: Initialized Nodriver instance
+2024-11-08 01:52:01,958: Finished running prep() function process in 5.56s
+2024-11-08 01:52:40,415: Receiving/updating odds data...
+2024-11-08 01:52:40,765: Tree request 23740.471: created tree and found n.8 events
+2024-11-08 01:52:45,436: Arb finder request 23740.504: found n.8 events
+2024-11-08 01:53:02,986: Tree request 23740.517: created tree and found n.8 events

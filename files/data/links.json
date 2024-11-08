@@ -1,0 +1,161 @@
+{
+  "playmatika": {
+    "betting-urls": {
+      "football": "https://www.playmatika.it/scommesse-sportive-live",
+      "basketball": "https://www.playmatika.it/scommesse-sportive-live",
+      "tennis": "https://www.playmatika.it/scommesse-sportive-live"
+    },
+    "arb-finder-urls": {
+      "football": "https://webapi.microgame.it/v2/Sport/Schedule/live",
+      "basketball": "https://webapi.microgame.it/v2/Sport/Schedule/live",
+      "tennis": "https://webapi.microgame.it/v2/Sport/Schedule/live"
+    },
+    "arb-checker-urls": {
+      "football": "https://webapi.microgame.it/v2/Sport/Schedule/live",
+      "basketball": "https://webapi.microgame.it/v2/Sport/Schedule/live",
+      "tennis": "https://webapi.microgame.it/v2/Sport/Schedule/live"
+    },
+    "provider": "microgame"
+  },
+
+
+
+  "better": {
+    "betting-urls" : {
+      "football": "https://www.lottomatica.it/scommesse/live/calcio",
+      "basketball": "https://www.lottomatica.it/scommesse/live/basket",
+      "tennis": "https://www.lottomatica.it/scommesse/live/tennis"
+    },
+    "arb-finder-urls": {
+      "football": "https://www.lottomatica.it/api/sport/live/getOverviewLive?idDiscipline=1&idTab=0&isFromUser=false",
+      "basketball": "https://www.lottomatica.it/api/sport/live/getOverviewLive?idDiscipline=2&idTab=0&isFromUser=false",
+      "tennis": "https://www.lottomatica.it/api/sport/live/getOverviewLive?idDiscipline=5&idTab=0&isFromUser=false"
+    },
+
+    "arb-checker-urls": {
+      "football": "https://www.lottomatica.it/scommesse/getDetailsEventLive/",
+      "basketball": "https://www.lottomatica.it/scommesse/getDetailsEventLive/",
+      "tennis": "https://www.lottomatica.it/scommesse/getDetailsEventLive/"
+    },
+    "provider": "lottomatica"
+  },
+
+  "sisal": {
+    "login-url": "https://areaprivata.sisal.it/loginJwt/",
+    "betting-urls": {
+      "football": "https://www.sisal.it/scommesse-live/sport/calcio",
+      "basketball": "https://www.sisal.it/scommesse-live/sport/basket",
+      "tennis": "https://www.sisal.it/scommesse-live/sport/tennis"
+    },
+    "arb-checker-urls": {
+      "football": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/common/predictions",
+      "basketball": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/common/predictions",
+      "tennis": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/common/predictions"
+    },
+    "arb-finder-urls": {
+      "football": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/live/live-ora/1?offerId=0",
+      "basketball": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/live/live-ora/2?offerId=0",
+      "tennis": "https://betting.sisal.it/api/lettura-palinsesto-sport/palinsesto/live/live-ora/3?offerId=0"
+    },
+    "provider": "none"
+  },
+
+  "eurobet": {
+    "betting-urls": {
+      "football": "https://www.eurobet.it/it/scommesse-live/#!",
+      "basketball": "https://www.eurobet.it/it/scommesse-live/#!",
+      "tennis": "https://www.eurobet.it/it/scommesse-live/#!"
+    },
+    "arb-checker-urls": {
+      "football": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1",
+      "basketball": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1",
+      "tennis": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1"
+    },
+    "arb-finder-urls": {
+      "football": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1",
+      "basketball": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1",
+      "tennis": "https://www.eurobet.it/live-homepage-service/sport-schedule/services/live-homepage/live?prematch=0&live=1"
+    },
+    "provider": "none"
+  },
+
+  "vincitu": {
+    "event-tree-request-url": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW&",
+    "betting-urls": {
+      "football": "https://www.vincitu.it/web/livebet/#",
+      "basketball": "https://www.vincitu.it/web/livebet/#",
+      "tennis": "https://www.vincitu.it/web/livebet/#"
+    },
+    "arb-checker-urls": {
+      "football": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=0&lid=",
+      "basketball": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=0&lid=",
+      "tennis": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=0&lid="
+    },
+    "arb-finder-urls": {
+      "football": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=10&fc=1&type=json",
+      "basketball": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=10&fc=1&type=json",
+      "tennis": "https://www.vincitu.it/res/client/wbe/proxybetting_live.aspx?METHOD=LIVE_LISTVIEW_UPDATE&dty=10&fc=1&type=json"
+    },
+    "provider": "none"
+  },
+
+  "betflag": {
+    "betting-urls": {
+      "football": "https://www.betflag.it/live",
+      "basketball": "https://www.betflag.it/live",
+      "tennis": "https://www.betflag.it/live"
+    },
+    "arb-checker-urls": {
+      "football": "https://sportservice.betflag.it/api/sport/live/getDetailsEventLive/",
+      "basketball": "https://sportservice.betflag.it/api/sport/live/getDetailsEventLive/",
+      "tennis": "https://sportservice.betflag.it/api/sport/live/getDetailsEventLive/"
+    },
+    "arb-finder-urls": {
+      "football": "https://sportservice.betflag.it/api/sport/live/getOverviewLive?idDiscipline=0&idTab=0&isFromUser=false",
+      "basketball": "https://sportservice.betflag.it/api/sport/live/getOverviewLive?idDiscipline=0&idTab=0&isFromUser=false",
+      "tennis": "https://sportservice.betflag.it/api/sport/live/getOverviewLive?idDiscipline=0&idTab=0&isFromUser=false"
+    },
+    "provider": "none"
+  },
+
+  "snai": {
+    "event-tree-request-url": "https://apipreview.snai.it/sports/sports/scommesse?slug=live/",
+    "websocket-url": "wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=",
+    "betting-urls": {
+      "football": "https://www.snai.it/live/CALCIO",
+      "tennis": "https://www.snai.it/live/TENNIS",
+      "basketball": "https://www.snai.it/live/BASKET"
+    },
+    "arb-checker-urls": {
+      "football": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="],
+      "basketball": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="],
+      "tennis": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="]
+    },
+    "arb-finder-urls": {
+      "football": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="],
+      "basketball": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="],
+      "tennis": ["wss://sigrpreview.snai.it/client/?hub=blue_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id=", "wss://sigrpreview.snai.it/client/?hub=green_sports_it_sporteventhub&asrs.op=%2Fsigr-hubs-it%2Feventi-sport&negotiateVersion=1&asrs_request_id="]
+    },
+    "provider": "none"
+  },
+
+  "betsson": {
+    "event-tree-request-url": "https://api2.betsson.it/api/Live/GetPalinsesto",
+    "betting-urls": {
+      "football": "https://www.betsson.it/scommesse/live/calcio/1",
+      "basketball": "https://www.betsson.it/scommesse/live/basket/2",
+      "tennis": "https://www.betsson.it/scommesse/live/tennis/5"
+    },
+     "arb-checker-urls": {
+      "football": "https://api2.betsson.it/api/Live/GetPalinsesto",
+      "basketball": "https://api2.betsson.it/api/Live/GetPalinsesto",
+      "tennis": "https://api2.betsson.it/api/Live/GetPalinsesto"
+    },
+    "arb-finder-urls": {
+      "football": "https://api2.betsson.it/api/Live/GetPalinsesto",
+      "basketball": "https://api2.betsson.it/api/Live/GetPalinsesto",
+      "tennis": "https://api2.betsson.it/api/Live/GetPalinsesto"
+    },
+    "provider": "none"
+  }
+}

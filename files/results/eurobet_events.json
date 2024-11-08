@@ -1,0 +1,442 @@
+[
+  {
+    "bet_radar_id": "46657139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.35,
+        "sportbook": "eurobet",
+        "outcome": "1",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "1",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ar-primera-division1/platense-deportivo-riestra-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.95,
+        "sportbook": "eurobet",
+        "outcome": "X",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "X",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ar-primera-division1/platense-deportivo-riestra-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "eurobet",
+        "outcome": "2",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "2",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ar-primera-division1/platense-deportivo-riestra-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 46,
+      "start": 1731024000000,
+      "score": [
+        0,
+        0
+      ],
+      "name": "platense - deportivo riestra"
+    },
+    "sportbook": "eurobet"
+  },
+  {
+    "bet_radar_id": "51468937",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.2,
+        "sportbook": "eurobet",
+        "outcome": "1",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "1",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/co-liga-postobon/deportivo-pasto-america-de-cali-202411080045",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.3,
+        "sportbook": "eurobet",
+        "outcome": "X",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "X",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/co-liga-postobon/deportivo-pasto-america-de-cali-202411080045",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.0,
+        "sportbook": "eurobet",
+        "outcome": "2",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "2",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/co-liga-postobon/deportivo-pasto-america-de-cali-202411080045",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 45,
+      "start": 1731023100000,
+      "score": [
+        1,
+        1
+      ],
+      "name": "deportivo pasto - america de cali"
+    },
+    "sportbook": "eurobet"
+  },
+  {
+    "bet_radar_id": "55067139",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.75,
+        "sportbook": "eurobet",
+        "outcome": "1",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "1",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/hn-liga-nacional/cd-genesis-olancho-fc-202411080015",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.28,
+        "sportbook": "eurobet",
+        "outcome": "X",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "X",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/hn-liga-nacional/cd-genesis-olancho-fc-202411080015",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 5.5,
+        "sportbook": "eurobet",
+        "outcome": "2",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "2",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/hn-liga-nacional/cd-genesis-olancho-fc-202411080015",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 78,
+      "start": 1731021300000,
+      "score": [
+        0,
+        0
+      ],
+      "name": "cd genesis - olancho fc"
+    },
+    "sportbook": "eurobet"
+  },
+  {
+    "bet_radar_id": "55364301",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.45,
+        "sportbook": "eurobet",
+        "outcome": "1",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "1",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ni-primera-division/hyh-sebaco-fc-indigenas-de-matagalpa-fc-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 2.25,
+        "sportbook": "eurobet",
+        "outcome": "X",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "X",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ni-primera-division/hyh-sebaco-fc-indigenas-de-matagalpa-fc-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 3.5,
+        "sportbook": "eurobet",
+        "outcome": "2",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "2",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/ni-primera-division/hyh-sebaco-fc-indigenas-de-matagalpa-fc-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 45,
+      "start": 1731024000000,
+      "score": [
+        1,
+        1
+      ],
+      "name": "hyh sebaco fc - indigenas de matagalpa fc"
+    },
+    "sportbook": "eurobet"
+  },
+  {
+    "bet_radar_id": "54938533",
+    "outcomes": [
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 1.14,
+        "sportbook": "eurobet",
+        "outcome": "1",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "1",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/br-coppa-u20-brasile/cruzeiro-y-palmeiras-y-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "X",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 6.0,
+        "sportbook": "eurobet",
+        "outcome": "X",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "X",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/br-coppa-u20-brasile/cruzeiro-y-palmeiras-y-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "2"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      },
+      {
+        "sport": "football",
+        "bet_type": "1X2",
+        "odd": 11.0,
+        "sportbook": "eurobet",
+        "outcome": "2",
+        "bet_id": {
+          "bet_type": "1X2",
+          "outcome": "2",
+          "url": "https://www.eurobet.it/it/scommesse-live/#!/calcio/br-coppa-u20-brasile/cruzeiro-y-palmeiras-y-202411080100",
+          "sport": "football"
+        },
+        "complentary_bet_type": "1X2",
+        "complentary_outcomes": [
+          "1",
+          "X"
+        ],
+        "compatible_bet_type": "DC",
+        "compatible_outcomes": [
+          "1X",
+          "X2",
+          "12"
+        ]
+      }
+    ],
+    "info": {
+      "sport": "football",
+      "time": 50,
+      "start": 1731024000000,
+      "score": [
+        2,
+        0
+      ],
+      "name": "cruzeiro y - palmeiras y"
+    },
+    "sportbook": "eurobet"
+  }
+]
