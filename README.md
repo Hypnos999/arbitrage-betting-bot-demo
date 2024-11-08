@@ -1,5 +1,5 @@
 # arbitrage-betting-bot-demo
-A Python multi process based programm to controll multiple live betting websites in parallel. It is capable of logging in your account, match the odds betwhen sportbooks, select the bet to place and pay the right amount for the arbitrage to happen. 
+A Python multi process based program to controll multiple live betting websites in parallel. It is capable of logging in your account, match the odds betwhen sportbooks, select the bet to place and pay the right amount for the arbitrage to happen. 
 
 This is a demo version released for demonstration porpuses,
 to try it you will have to:
@@ -14,7 +14,7 @@ The various function each website must run are:
 2. log in, for later when it will eventually pay a bet.
 3. prep, do various things in order to prepare the website.
 4. odds matching, each website intercept their odds and send them to the main process.
-4. place bet, one an arbitrgae opportunity is found, the interested websites will select their bet.
+4. place bet, one an arbitrgae opportunity is found, the interested websites will select their bet and type the right stake.
 5. double check, make sure there are no errors and that bets are open
 6. pay bet, click on the button to confirm our bets
 
