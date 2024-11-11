@@ -21,4 +21,7 @@ The various function each website must run are:
 Being this a demo version some function like logout and login are not included.
 
 If you want to replicate the alpha version or you're interested in this project please feel free to get in contact with me.
-I also uploaded a video of the alpha version run.
+
+I also uploaded a video of the alpha version run, see "alpha run video.mp4".
+
+
