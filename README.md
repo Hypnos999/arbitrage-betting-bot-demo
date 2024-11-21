@@ -30,6 +30,7 @@ the current supported (italian) websites are:
 if you're pc can handle it you can run all them in parallel.
 
 to try the demo it you will have to:
+
 0. have Google installed
 1. clone the github repo
 2. create an envinroment (optional) and run pip install -r requirements.txt
